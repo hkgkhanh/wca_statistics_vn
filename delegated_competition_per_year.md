@@ -2,14 +2,14 @@
 
 *Note: Only delegates with at least 3 competitions are taken into account.
              Delegate period is calculated as the difference between first and last delegated competition.*
-*Updated on  1 April 2026*
+*Updated on 10 April 2026*
 
 | # | Delegated per year | Delegated | Years | Person | List on WCA |
 | ---: | ---: | ---: | ---: | :--- | :--: |
 | 1 | 6.05 | 18 | 2.97 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=42070) |
 | 2 | 3.94 | 5 | 1.27 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=115116) |
-| 3 | 3.46 | 11 | 3.18 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=12694) |
-| 4 | 2.42 | 34 | 14.03 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=300) |
+| 3 | 3.23 | 12 | 3.72 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=12694) |
+| 4 | 2.39 | 35 | 14.66 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=300) |
 | 5 | 2.33 | 27 | 11.58 | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=301) |
 
 
