@@ -1,8 +1,8 @@
 ## Kinch rankings of Vietnamese competitors
 
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
-| # | Person | Kinch | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 444bf | 555bf | 333bf | 333fm | 333mbf |
+| # | Person | Kinch | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 333bf | 444bf | 555bf | 333fm | 333mbf |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 77.57 | 99.48 | 98.69 | 100.00 | 100.00 | 100.00 | 100.00 | 94.87 | 86.19 | 100.00 | 52.84 | 55.58 | 36.41 | 100.00 | 98.55 | 0.00 | 71.88 | 24.28 |
 | 2 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | 53.57 | 66.13 | 56.98 | 51.06 | 52.94 | 48.67 | 48.59 | 59.96 | 65.25 | 52.02 | 92.72 | 42.53 | 37.91 | 39.79 | 88.67 | 0.00 | 79.31 | 28.14 |
